@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Francielly0327/Francielly0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+![download](https://github.com/user-attachments/assets/986dbbb7-51f5-4616-96e3-91f080428467)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Olá%2C+meu+nome+é+Francielly)
+
+</div>
+
+
+</div>
+<div align="center">
+<p>
+  <strong>Construindo coisas incríveis com criatividade, organização e um toque de diversão 🚀</strong>
+</p>
+
+---
+
+## 💡 Sobre mim
+
+<table align="center">
+  <tr>
+    <td width="60%">
+      <p>✨ Formada em <b>Análise e Desenvolvimento de Sistemas</b></p>
+      <p>💻 Curiosa por tecnologia, organização e soluções práticas</p>
+      <p>🎯 Em constante evolução — sempre aprendendo e criando coisas novas</p>
+      <p>🌍 Gosto de transformar ideias em projetos reais e funcionais</p>
+    </td>
+    <td width="40%" align="center">
+      <img src="https://github.com/user-attachments/assets/fc0eed02-f431-41b9-9272-6fb779672fef" width="180" style="border-radius: 50%; border: 3px solid #00C4CC;" alt="Francielly" />
+    </td>
+  </tr>
+</table
+  
+---
+
+## 🚀 Habilidades Técnicas
+
+| Área | Tecnologias / Ferramentas |
+| :--- | :--- |
+| **Desenvolvimento** | Java, Python, JavaScript, HTML, CSS |
+| **Banco de Dados** | MySQL, PostgreSQL, MongoDB |
+| **Organização** | Notion, Trello, Kanban, Git |
+| **Design & Criatividade** | Figma, Canva, UI/UX |
+
+---
+
+## 📊 Evolução Pessoal
+
+```text
+Aprendizado Contínuo        ████████████████████ 95%
+Organização & Produtividade ████████████████░░░░ 85%
+Criatividade                ██████████████████░░ 90%
+Comunicação                 ██████████████░░░░░░ 75%
+```
+
+---
+
+## 👇 Conecte-se comigo!
+
+<div align="center">
+
+<a href="https://github.com/Francielly0327">
+  <img 
+    src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/francielly-almeida-b69881220/">
+  <img 
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+    
+
+![download](https://github.com/user-attachments/assets/986dbbb7-51f5-4616-96e3-91f080428467)
+
