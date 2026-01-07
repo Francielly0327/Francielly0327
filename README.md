@@ -1,12 +1,6 @@
 <div align="center">
 
-<div align="center">
-
-![download](https://github.com/user-attachments/assets/986dbbb7-51f5-4616-96e3-91f080428467)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=32&duration=3000&pause=1000&color=00C4CC&center=true&vCenter=true&width=600&lines=Olá%2C+meu+nome+é+Francielly)
-
-</div>
+![Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/b948fca5-a494-4efc-a1b6-5d8c22b46007)
 
 
 </div>
