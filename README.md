@@ -33,7 +33,7 @@
 
 | Área | Tecnologias / Ferramentas |
 | :--- | :--- |
-| **Desenvolvimento** | Java, Python, JavaScript, HTML, CSS |
+| **Desenvolvimento** | C#, Python, JavaScript, HTML, CSS |
 | **Banco de Dados** | MySQL, PostgreSQL, MongoDB |
 | **Organização** | Notion, Trello, Kanban, Git |
 | **Design & Criatividade** | Figma, Canva, UI/UX |
