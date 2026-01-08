@@ -1,6 +1,6 @@
 <div align="center">
 
-![Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/b948fca5-a494-4efc-a1b6-5d8c22b46007)
+![Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/497e3f23-8842-48bf-8859-1a7034bda62f)
 
 
 </div>
