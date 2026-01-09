@@ -80,8 +80,6 @@ Comunicação                 ██████████████░░�
 
 </div>
 
-    
+![Cópia de Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/58277d44-f074-462f-b1eb-8a30c1346b4d)
 
-
-![Cópia de Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/cfd1f5f8-9ed5-4e6d-ae18-f23fe779ef5d)
 
