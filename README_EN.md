@@ -5,10 +5,9 @@
   <img src="https://img.shields.io/badge/Language-English-6A5ACD?style=for-the-badge" />
 </p>
 
-
 <div align="center">
 
-![Hi there, I'm Francielly 👋](https://github.com/user-attachments/assets/778bcb35-1967-4714-a338-5a3d0b343330)
+![Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/f639240f-956f-4257-bd1e-68a52f62a88a)
 
 </div>
 <div align="center">
@@ -98,5 +97,13 @@ Communication              ███████████████░░�
 </a>
 
 </div>
-    
-![Cópia de Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/68f2850e-0d69-4aeb-8f2a-405e521258d6)
+
+</div>
+
+<div align="center">
+
+</p>
+
+![Cópia de Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/30770aa0-2780-406a-ba1a-9507c37567b5)
+
+
