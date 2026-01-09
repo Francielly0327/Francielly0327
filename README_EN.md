@@ -99,5 +99,4 @@ Communication              ███████████████░░�
 
 </div>
     
-
-![download](https://github.com/user-attachments/assets/986dbbb7-51f5-4616-96e3-91f080428467)
+![Cópia de Olá, Meu nome é Francielly](https://github.com/user-attachments/assets/68f2850e-0d69-4aeb-8f2a-405e521258d6)
