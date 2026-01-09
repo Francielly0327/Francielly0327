@@ -32,11 +32,16 @@
       <img src="https://github.com/user-attachments/assets/fc0eed02-f431-41b9-9272-6fb779672fef" width="180" style="border-radius: 50%; border: 3px solid #00C4CC;" alt="Francielly" />
     </td>
   </tr>
-</table
+</table>
   
----
 
 ## 🚀 Habilidades Técnicas
+
+</div>
+
+<div align="center">
+
+<p>
 
 | Área | Tecnologias / Ferramentas |
 | :--- | :--- |
@@ -45,7 +50,6 @@
 | **Organização** | Notion, Trello, Kanban, Git |
 | **Design & Criatividade** | Figma, Canva, UI/UX |
 
----
 
 ## 📊 Evolução Pessoal
 
