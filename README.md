@@ -82,5 +82,6 @@ Comunicação                 ██████████████░░�
 
     
 
-![download](https://github.com/user-attachments/assets/986dbbb7-51f5-4616-96e3-91f080428467)
+
+![Cópia de Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/cfd1f5f8-9ed5-4e6d-ae18-f23fe779ef5d)
 
