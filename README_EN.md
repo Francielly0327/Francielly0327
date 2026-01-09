@@ -1,6 +1,10 @@
 <p align="center">
-  <a href="./README.md">🇧🇷 Portuguese</a> • 🇺🇸 English
+  <a href="./README.md">
+    <img src="https://img.shields.io/badge/Idioma-Português-2F4F4F?style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/badge/Language-English-6A5ACD?style=for-the-badge" />
 </p>
+
 
 <div align="center">
 
