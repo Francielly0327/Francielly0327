@@ -1,3 +1,7 @@
+<p align="center">
+  🇧🇷 Português • <a href="./README_EN.md">🇺🇸 English</a>
+</p>
+
 <div align="center">
 
 ![Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/497e3f23-8842-48bf-8859-1a7034bda62f)
