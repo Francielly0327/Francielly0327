@@ -7,7 +7,7 @@
 
 <div align="center">
 
-![Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/497e3f23-8842-48bf-8859-1a7034bda62f)
+![Olá, Meu nome é Francielly (2)](https://github.com/user-attachments/assets/3e6b904e-dad9-4a60-8b14-8697769ec69e)
 
 
 </div>
