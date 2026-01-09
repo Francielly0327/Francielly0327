@@ -9,8 +9,6 @@
 
 ![Olá, Meu nome é Francielly (5)](https://github.com/user-attachments/assets/a7dd5813-6574-4433-8425-bfb15530de8e)
 
-
-
 </div>
 <div align="center">
 <p>
@@ -50,7 +48,6 @@
 | **Banco de Dados** | MySQL, PostgreSQL, MongoDB |
 | **Organização** | Notion, Trello, Kanban, Git |
 | **Design & Criatividade** | Figma, Canva, UI/UX |
-
 
 ## 📊 Evolução Pessoal
 
