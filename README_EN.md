@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![Olá, Meu nome é Francielly (1)](https://github.com/user-attachments/assets/497e3f23-8842-48bf-8859-1a7034bda62f)
+![Hi there, I'm Francielly 👋](https://github.com/user-attachments/assets/778bcb35-1967-4714-a338-5a3d0b343330)
 
 </div>
 <div align="center">
