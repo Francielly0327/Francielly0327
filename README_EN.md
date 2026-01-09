@@ -12,13 +12,19 @@
 
 </div>
 
-## 💡 About Me
+</div>
+
+<div align="center">
+
+</p>
+
+## 💡 About Me  
 
 </div>
 
 <div align="center">
 
-<p>
+</p>
 
 <table align="center">
   <tr>
